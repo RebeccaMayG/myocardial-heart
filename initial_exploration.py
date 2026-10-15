@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import plotly.express as px
 
-example = np.load("./Data/mixed_samples/0healthy.npy")
+example = np.load("../mixed_samples/0healthy.npy")
 
 print(example.shape)
 
